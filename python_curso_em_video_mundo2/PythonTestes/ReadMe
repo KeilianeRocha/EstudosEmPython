@@ -1,0 +1,18 @@
+#___________________________________________________ ROTEIRO____________________________________________________________
+12. CONDIÇÕES ANINHADAS
+=> ANINHADA POR QUE ELA ESTÁ EM FORMATO DE NINHO, UMA COISA DENTRO DA OUTRA.
+//----------/----------//
+
+=> APENAS 'IF' ==> CONDIÇÃO SIMPLES.
+=> 'IF' COM MAIS UMA CONDIÇÃO ==> CONDIÇÃO COMPOSTA.
+=> 'ELIF' E 'ELSE', SÃO OPCIONAIS.
+=> ESTRUTURA 'ANINHADA PADRÃO', USA 03 POSSIBILIDADES.
+=> DENTRO DE UM 'IF', VOCÊ PODE UTILIZAR QUANTOS 'ELSE' VOCÊ QUISER.
+
+
+if carro.esquerda(): => SEMPRE VAI COMEÇAR COM 'IF'
+
+elif carro.direita(): => SO PODE SER USADO 0 OU 1X
+
+else: => NEM SEMPRE VAI TER O 'ELSE'
+
