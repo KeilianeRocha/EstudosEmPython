@@ -1,0 +1,47 @@
+#___________________________________________________ ROTEIRO____________________________________________________________
+
+1. PORQUE PYTHON?
+=> https://docs.python.org/pt-br/3/tutorial/
+=> https://docs.python.org/pt-br/3/
+
+2. HISTÓRIA DO PYTHON
+
+
+3. INSTALANDO PYTHON3 E IDLE
+
+
+4. INSTALANDO PCHARM
+
+
+5. TIPOS PRIMITIVOS
+1. STRING
+2. FLUTUANTE
+3. BOOLEANDO
+4.
+
+6. MÉTODOS DE TIPOS PRIMITIVOS
+
+7. OPERADORES ARITMÉTICOS
+'+' => ADIÇÃO => 5 + 2 == 7
+'-' => SUBTRAÇÃO => 5 - 2 == 3
+'*' => MULTIPLICAÇÃO => 5 * 2 == 10
+'/' => DIVIÇÃO => 5 / 2 == 2.5
+'**' => POTÊNCIA => 5 ** 2 == 25
+'//' => DIVISÃO INT => 5 // 2 == 2
+'%' => RESTO DA DIVISÃO(MÓDULO) 5 % 2 == 1
+
+8. ORDEM DE PRECEDÊNCIA
+1 => ()
+2 => **
+3 => *, /, //, %
+4 => +, -
+
+9. MÓDULOS
+COMANDO PARA IMPORTAR TUDO, PRIMEIRA LINHAS => IMPORT EXEMPLO
+COMANDO PARA IMPORTAÇÃO ÚNICA => FROM EXEMPLO IMPORT EXEMPLO
+EXEMPLO DE BIBLIOTECA:> MATH
+
+10. MANIPULANDO TEXTO
+
+
+11. CORES NO TERMINAL
